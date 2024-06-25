@@ -9,7 +9,7 @@
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/viniciushidekidacosta/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]([[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/viniciushidekidacosta/)](https://www.linkedin.com/in/viniciushidekidacosta/))
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vnhideki)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:vinihicosta@gmail.com)
 
